@@ -1,5 +1,8 @@
 {
   "$schema": "https://snappyvideo.ai/openapi.json",
+  "openapi": [
+    "/openapi.yml"
+  ],
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
